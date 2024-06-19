@@ -1,0 +1,27 @@
+{
+  "name": "social-icon",
+  "version": "1.0.0",
+  "description": "this is the test for my first web-component",
+  "main": "social-icon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alejandrobermejo16/abm-webComponent.git"
+  },
+  "keywords": [
+    "webcomponents",
+    "litelement",
+    "javascript"
+  ],
+  "author": "Alejandro Bermejo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Alejandrobermejo16/abm-webComponent/issues"
+  },
+  "homepage": "https://github.com/Alejandrobermejo16/abm-webComponent#readme",
+  "dependencies": {
+    "lit-element": "^4.0.6"
+  }
+}
