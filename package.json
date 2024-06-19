@@ -2,7 +2,7 @@
   "name": "social-icon",
   "version": "1.0.0",
   "description": "this is the test for my first web-component",
-  "main": "social-icon.js",
+  "main": "abm-social-icon.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
